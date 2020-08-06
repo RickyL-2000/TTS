@@ -1,2 +1,2 @@
 # TTS
-A Noteboos for Learning TTS
+A Notebook for Learning TTS
